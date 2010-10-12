@@ -1,0 +1,5 @@
+- ahmet: color
+- engin: morph
+- erdem: camera
+- ilke: segment
+- emel: feature extraction
