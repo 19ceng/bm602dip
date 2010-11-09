@@ -1,0 +1,9 @@
+Tekrar merhaba Hocam,
+ 
+Resimler arasındaki farkı bulma programında sizin önerdiğiniz RGB yaklaşımını uyguladım. Her 3 renk bileşeni için 3 ayrı fark alıp en sonunda bu 3 fark matrisini üst üste topladığımızda tüm farklılıkları tek bir resimde görebiliyoruz.
+ 
+Eski ve yeni yaklaşımlar "Fark_eski.m" ve "Fark_yeni.m" dosyalarında mevcuttur.
+ 
+İyi çalışmalar,
+ 
+Emre Gürbüz
